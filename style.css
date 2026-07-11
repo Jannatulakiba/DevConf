@@ -425,7 +425,22 @@ nav ul li a {
     justify-content: space-between;
     align-items: center;
 }
+.footer-left{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
 
+.footer-left img{
+    width: 150px;   
+    height: auto;
+}
+
+.footer-left p{
+    color: #94A3B8;
+    font-size: 15px;
+    
+}
 
 
 .footer-right {
@@ -442,20 +457,4 @@ nav ul li a {
 
 .footer-right a:hover {
     color: white;
-}
-.footer-left{
-    display: flex;
-    align-items: center;
-    gap: 5px;
-}
-
-.footer-left img{
-    width: 150px;   
-    height: auto;
-}
-
-.footer-left p{
-    color: #94A3B8;
-    font-size: 15px;
-    
 }
