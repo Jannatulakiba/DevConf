@@ -1,0 +1,3 @@
+FAQ Section Prompt:
+
+Create a "Frequently Asked Questions" section for the DevConf 2026 landing page using pure HTML and CSS only (no JavaScript). Use the <details> and <summary> tags to build an expand/collapse accordion — clicking a question reveals the answer, with a "+" icon that rotates when open. Include 5 FAQs (event date/venue, session recordings, student discount, refund policy, safety measures). Match the existing Indigo color theme and keep it responsive.
